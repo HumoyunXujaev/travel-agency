@@ -40,7 +40,7 @@ function Banner() {
             });
           }}
         >
-          Exlore Now
+          Explore Now
         </button>
       </div>
     </div>

@@ -112,7 +112,7 @@ function Header({ placeholder }) {
           type="text"
           className="flex-grow md:pl-5 ml-2 p w-full border-2 p-1 sm:border-none rounded-full bg-transparent outline-none
                      text-gray-600 placeholder-gray-500 "
-          placeholder={placeholder || "Seach City"}
+          placeholder={placeholder || "Search City"}
         />
         <SearchIcon
           onClick={search}
